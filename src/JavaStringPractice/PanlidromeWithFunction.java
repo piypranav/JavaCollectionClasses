@@ -39,7 +39,6 @@ public class PanlidromeWithFunction {
                     System.out.println("Char at charStr[i]" + charStr[i] + " Reverse" +
                             " char is: " + charStr[(charStr.length -1) - i]);
                 } else {
-                    System.out.println("In else");
                     System.out.println("Char at charStr[i]" + charStr[i] + " Reverse" +
                             " char is: " + charStr[(charStr.length -1) - i]);
                     return false;
